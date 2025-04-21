@@ -1,0 +1,1 @@
+# GeneratorMapnaPars_blazor
